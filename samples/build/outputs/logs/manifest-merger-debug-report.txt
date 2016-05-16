@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:1:1-20:12
+	xmlns:android
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+application
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:4:5-18:19
+MERGED from [AndroidDemos:libs:unspecified] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/AndroidDemos/libs/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:5:9-35
+	android:icon
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:6:9-43
+	android:theme
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:9:9-40
+activity#com.demos.zdx.androiddemos.view.activity.MainPageActivity
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:11:9-16:20
+	android:name
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:11:19-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [AndroidDemos:libs:unspecified] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/AndroidDemos/libs/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.0.1] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex:rxandroid:1.2.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:23:9-75
