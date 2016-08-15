@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:1:1-20:12
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:1:1-24:12
 	xmlns:android
 		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:1:11-69
 	package
@@ -14,7 +14,7 @@ ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src
 		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
 		INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml
 application
-ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:4:5-18:19
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:4:5-22:19
 MERGED from [AndroidDemos:libs:unspecified] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/AndroidDemos/libs/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
@@ -49,6 +49,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:14:17-77
 	android:name
 		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:14:27-74
+activity#com.demos.zdx.androiddemos.view.activity.ExposurePageActivity
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:18:9-20:20
+	android:name
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:18:19-69
+activity#com.demos.zdx.androiddemos.view.activity.SurfaceFrameViewActivity
+ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:21:9-75
+	android:name
+		ADDED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml:21:19-73
 uses-sdk
 INJECTED from /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [AndroidDemos:libs:unspecified] /Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/AndroidDemos/libs/unspecified/AndroidManifest.xml:7:5-9:41

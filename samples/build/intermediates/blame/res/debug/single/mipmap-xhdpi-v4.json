@@ -6,13 +6,5 @@
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/back_btn.png",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/mipmap-xhdpi/back_btn.png"
-    },
-    {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/back_btn.png",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/src/main/res/mipmap-xhdpi/back_btn.png"
-    },
-    {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

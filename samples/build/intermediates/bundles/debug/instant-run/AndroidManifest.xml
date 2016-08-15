@@ -22,6 +22,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.demos.zdx.androiddemos.view.activity.ExposurePageActivity" >
+        </activity>
+        <activity android:name="com.demos.zdx.androiddemos.view.activity.SurfaceFrameViewActivity" />
     </application>
 
 </manifest>

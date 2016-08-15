@@ -1,210 +1,738 @@
 [
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0071.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0071.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0095.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0095.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0093.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0093.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0075.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0075.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0137.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0137.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0076.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0076.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0118.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0118.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0078.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0078.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0138.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0138.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0038.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0038.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0156.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0156.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0042.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0042.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
     },
     {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0007.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0007.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0001.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0001.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0027.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0027.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0151.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0151.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0119.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0119.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0052.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0052.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0080.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0080.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0153.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0153.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0121.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0121.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0010.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0010.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0145.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0145.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0019.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0019.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0018.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0018.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0008.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0008.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0037.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0037.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0097.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0097.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0049.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0049.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0033.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0033.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0108.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0108.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0051.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0051.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0115.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0115.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0046.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0046.png"
+    },
+    {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0057.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0057.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0155.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0155.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0069.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0069.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0086.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0086.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0124.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0124.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0077.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0077.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0146.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0146.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0133.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0133.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0006.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0006.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0073.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0073.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0054.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0054.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0079.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0079.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0012.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0012.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0003.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0003.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0043.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0043.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0081.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0081.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0103.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0103.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0039.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0039.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0021.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0021.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0089.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0089.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0131.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0131.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0136.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0136.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0102.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0102.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0068.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0068.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0101.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0101.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0074.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0074.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0063.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0063.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0070.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0070.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0024.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0024.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0127.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0127.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0055.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0055.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0061.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0061.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0015.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0015.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0154.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0154.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0050.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0050.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0130.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0130.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0132.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0132.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0044.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0044.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0113.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0113.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0139.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0139.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0023.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0023.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0005.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0005.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0065.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0065.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0026.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0026.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0031.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0031.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0085.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0085.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0058.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0058.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0029.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0029.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0135.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0135.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0099.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0099.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0083.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0083.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0072.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0072.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0090.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0090.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0092.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0092.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0094.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0094.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
     },
     {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0111.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0111.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0142.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0142.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0141.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0141.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0067.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0067.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0098.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0098.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0114.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0114.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0034.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0034.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0032.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0032.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0126.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0126.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0107.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0107.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0060.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0060.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0143.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0143.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0030.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0030.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0128.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0128.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0116.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0116.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0048.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0048.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0016.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0016.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0017.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0017.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0091.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0091.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0104.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0104.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0148.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0148.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0147.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0147.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0120.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0120.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0082.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0082.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0013.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0013.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0045.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0045.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0020.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0020.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0125.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0125.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0105.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0105.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0112.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0112.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0109.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0109.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0011.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0011.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0110.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0110.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0100.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0100.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0150.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0150.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0056.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0056.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0047.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0047.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0059.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0059.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0053.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0053.png"
+    },
+    {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0152.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0152.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0064.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0064.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0035.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0035.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0140.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0140.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0041.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0041.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0149.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0149.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0036.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0036.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0117.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0117.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0062.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0062.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0134.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0134.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0129.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0129.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0022.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0022.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0084.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0084.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0122.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0122.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0004.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0004.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0088.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0088.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0157.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0157.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0144.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0144.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0000.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0000.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0002.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0002.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0009.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0009.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0028.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0028.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0106.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0106.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0014.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0014.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0123.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0123.png"
+    },
+    {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0066.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0066.png"
     },
     {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0025.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0025.png"
+    },
+    {
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0040.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0040.png"
+    },
+    {
         "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0096.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0096.png"
     },
     {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/merged/debug/drawable/mjdemo0087.png",
+        "source": "/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/src/main/res/drawable/mjdemo0087.png"
     }
 ]

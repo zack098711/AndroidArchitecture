@@ -217,7 +217,10 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">AndroidDemos</string>
+    <string name="exposure_desc">曝光统计的视图，当视图可见性发生变化，包括显示，隐藏，滑出屏幕，滑入屏幕时，自行进行曝光统计</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="surfaceview_desc">surfaceview 展示帧动画。当图片数量巨大时，采用双线程：预加载线程与绘制线程实现</string>
+    <string name="title_fragment">fragment</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

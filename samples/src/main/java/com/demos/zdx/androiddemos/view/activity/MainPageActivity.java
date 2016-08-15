@@ -1,6 +1,7 @@
 package com.demos.zdx.androiddemos.view.activity;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -44,7 +45,6 @@ public class MainPageActivity extends BaseActivity<IMainInterface,MainPagePresen
         initView();
         initListener();
         mPresenter.setAdapterData();
-
     }
 
     @Override
@@ -73,6 +73,19 @@ public class MainPageActivity extends BaseActivity<IMainInterface,MainPagePresen
             @Override
             public void onItemClick(ViewGroup parent, View view, MainItemBean mainItemBean, int position) {
                 Log.v("zdxtest1","  onitemclick position-> "+position+"  "+mainItemBean.toString());
+                if(mainItemBean.mMainItemFlagEnum==null)
+                    return;
+                switch (mainItemBean.mMainItemFlagEnum){
+                    case LIST_TYPE_DEFAULT:
+                        break;
+                    case LIST_TYPE_EXPOSURE:
+                        startActivity(new Intent(context,ExposurePageActivity.class));
+                        break;
+                    case LIST_TYPE_SURFACEVIEW_GIF:
+                        startActivity(new Intent(context,SurfaceFrameViewActivity.class));
+                    default:
+                        break;
+                }
             }
 
             @Override

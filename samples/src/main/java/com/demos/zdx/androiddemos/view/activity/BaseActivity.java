@@ -3,6 +3,7 @@ package com.demos.zdx.androiddemos.view.activity;
 import android.app.Activity;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -22,7 +23,7 @@ import butterknife.ButterKnife;
  * Created by ZhaoDongXu on 16/5/9.
  * Since Version : 1.0
  */
-public abstract class BaseActivity<ViewInterface,T extends BasePresenter<ViewInterface>> extends Activity{
+public abstract class BaseActivity<ViewInterface,T extends BasePresenter<ViewInterface>> extends FragmentActivity{
     @BindView(R.id.fl_titleBar)
     public FrameLayout fl_titleBar;
     @BindView(R.id.fl_content)

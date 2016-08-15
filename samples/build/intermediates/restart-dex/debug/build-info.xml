@@ -1,194 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="23"
-    density="400dpi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="560dpi"
     format="7"
-    timestamp="1463379009034367000" >
+    timestamp="1470972413657110000"
+    token="-677078593514483676"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="211" />
+        duration="187" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="735" />
     <task
         name="instant-run-transform"
-        duration="227" />
+        duration="16" />
     <task
         name="verifier"
-        duration="33" />
+        duration="1" />
 
     <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.0_a584a400446b337b55153b0f9198ee5ca093a208/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_3227a2b24313a8e3b75a1b3c3b07d81477c33133/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_79fca0f1374a1dc361c8c70c759e67669749efbc/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_82ff85d12a38e18c0f2bcf1803bcfbbeca2cd8e8/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_b3fef0438c2081c4d57ff78e6f2737556a3c987f/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_7d882656c9970ba1a773d98f8e52ccf705c80e37/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6a33db8ec04400b500dda0d6ce442fc69d456ed7/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_e361d047f45cd69651408d467d27aebbb113fe16/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_419787fdf0a19be6d013b92e39ca8e7ca41b4b91/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/junit-4.12_b6f8ada4c5d32790663ded9af39fb23f617e4f3a/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.4_bab0229672c1aea53f45f81266a2cad59f03a7ab/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_e076b6e2c087e202f2a57fd6afb18f3f2204967c/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-core-1.3_e66eebfc8ee17bf07b4fe58b06a570f9b1b748ed/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_4e988138468392577823715e1803ff7c529ed82a/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_95a5e4ca8eabb33009f996ebb3874cb4be2c50ac/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_467555036e7a7db819c0ff8e7f74430cc10690c8/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_f7283d4b75a960fe3e08153db76cd1ae83945c49/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
+        location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="1463379009034367000" >
+    <build timestamp="1470970775406088000" >
         <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.0_a584a400446b337b55153b0f9198ee5ca093a208/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_3227a2b24313a8e3b75a1b3c3b07d81477c33133/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_79fca0f1374a1dc361c8c70c759e67669749efbc/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_82ff85d12a38e18c0f2bcf1803bcfbbeca2cd8e8/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_b3fef0438c2081c4d57ff78e6f2737556a3c987f/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_7d882656c9970ba1a773d98f8e52ccf705c80e37/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6a33db8ec04400b500dda0d6ce442fc69d456ed7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_e361d047f45cd69651408d467d27aebbb113fe16/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_419787fdf0a19be6d013b92e39ca8e7ca41b4b91/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/junit-4.12_b6f8ada4c5d32790663ded9af39fb23f617e4f3a/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.4_bab0229672c1aea53f45f81266a2cad59f03a7ab/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_e076b6e2c087e202f2a57fd6afb18f3f2204967c/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-core-1.3_e66eebfc8ee17bf07b4fe58b06a570f9b1b748ed/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_4e988138468392577823715e1803ff7c529ed82a/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-            type="DEX" />
+            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/outputs/apk/samples-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1470972059478469000"
+        verifier="FIELD_ADDED" >
         <artifact
             location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="1470972267773136000"
+        verifier="COMPATIBLE" >
         <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_95a5e4ca8eabb33009f996ebb3874cb4be2c50ac/classes.dex"
-            type="DEX" />
+            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/builds/debug/1470972267773136000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1470972311057410000"
+        verifier="COMPATIBLE" >
         <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_467555036e7a7db819c0ff8e7f74430cc10690c8/classes.dex"
-            type="DEX" />
+            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/builds/debug/1470972311057410000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1470972395450476000"
+        verifier="COMPATIBLE" >
         <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_f7283d4b75a960fe3e08153db76cd1ae83945c49/classes.dex"
-            type="DEX" />
+            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/builds/debug/1470972395450476000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1470972413657110000"
+        verifier="COMPATIBLE" >
         <artifact
-            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
+            location="/Users/zhaodongxu1/AndroidStudioProjects/Git/AndroidDemos/samples/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

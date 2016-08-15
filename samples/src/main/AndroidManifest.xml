@@ -15,6 +15,10 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".view.activity.ExposurePageActivity">
+
+        </activity>
+        <activity android:name=".view.activity.SurfaceFrameViewActivity"/>
     </application>
 
 </manifest>

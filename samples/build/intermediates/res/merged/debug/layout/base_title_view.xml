@@ -70,4 +70,9 @@
         android:singleLine="true"
         android:textSize="18sp" />
 
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.333333dp"
+        android:background="#999999"
+        android:layout_alignParentBottom="true"/>
 </RelativeLayout>
