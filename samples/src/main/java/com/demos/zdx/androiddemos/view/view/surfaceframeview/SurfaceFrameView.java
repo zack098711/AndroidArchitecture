@@ -1,12 +1,13 @@
 package com.demos.zdx.androiddemos.view.view.surfaceframeview;
 
 import android.content.Context;
-import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
+import android.graphics.Paint;
 import android.graphics.PixelFormat;
 import android.graphics.RectF;
+import android.os.Environment;
 import android.util.AttributeSet;
 import android.util.DisplayMetrics;
 import android.util.Log;
@@ -16,6 +17,7 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.WindowManager;
 
+import java.io.File;
 import java.io.InputStream;
 
 /**
@@ -26,51 +28,60 @@ import java.io.InputStream;
  */
 public class SurfaceFrameView extends SurfaceView implements SurfaceHolder.Callback, Runnable {
     public static final String TAG = "zdxtest";
+    private String TAG1= "zdxtest1";
     private SurfaceHolder mSurfaceHolder;
-
     private boolean mIsThreadRunning = true; // 线程运行开关
     private boolean mIsDestroy = false;// 是否已经销毁
-
     private int[] mBitmapResourceIds;// 用于播放动画的图片资源数组
     private Canvas mCanvas;
     private Bitmap mBitmap;// 显示的图片
     private Bitmap mNextBitmap;// 显示的图片
-
     private int mCurrentIndext;// 当前动画播放的位置
     private int mGapTime = 1000 / 24;// 每帧动画持续存在的时间
-
     private OnFrameFinishedListener mOnFrameFinishedListener;// 动画监听事件
-
     private Context context;
-    RectF rectF;
+    private RectF rectF;
+    Paint paint ;
+    //图片预加载的时间。
+    private int preLoadTime;
+    private String SPLAH_BG = "/storage/emulated/0/moji/splash/bg/";
 
     public SurfaceFrameView(Context context) {
         this(context, null);
-    }
-
-    public SurfaceFrameView(Context context, AttributeSet attrs, int defStyle) {
-        super(context, attrs, defStyle);
-        this.context = context;
-        mCurrentIndext = 0;
-        rectF = new RectF(0, 0, getScreenWidth(), getScreenHeight() - dp2px(55));
-        mSurfaceHolder = this.getHolder();
-        mSurfaceHolder.addCallback(this);// 注册回调方法
-        mSurfaceHolder.setFormat(PixelFormat.TRANSLUCENT);
+        Log.v(TAG1,"   1111");
     }
 
     public SurfaceFrameView(Context context, AttributeSet attrs) {
         this(context, attrs, 0);
+        Log.v(TAG1,"  22222 ");
+    }
+
+    public SurfaceFrameView(Context context, AttributeSet attrs, int defStyle) {
+        super(context, attrs, defStyle);
+        Log.v(TAG1,"   3333 ");
+        this.context = context;
+        mCurrentIndext = 0;
+        rectF = new RectF(0, 0, getScreenWidth(), getScreenHeight() - dp2px(55));
+        paint = new Paint();
+        mSurfaceHolder = this.getHolder();
+        mSurfaceHolder.addCallback(this);// 注册回调方法
+        mSurfaceHolder.setFormat(PixelFormat.TRANSLUCENT);
+        File file = new File(SPLAH_BG);
+        if(!file.exists()){
+            if(!file.mkdirs()){
+                Log.v(TAG1,"  创建路径出错 ");
+            }
+        }
+        if(file.exists()){
+            Log.v(TAG1," --------  "+file.getAbsolutePath());
+        }
     }
 
     @Override
-    public void surfaceCreated(SurfaceHolder holder) {
-        // 创建surfaceView时启动线程
-        // new Thread(this).start();
-    }
+    public void surfaceCreated(SurfaceHolder holder) {}
 
     @Override
-    public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
-    }
+    public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {}
 
     @Override
     public void surfaceDestroyed(SurfaceHolder holder) {
@@ -81,17 +92,32 @@ public class SurfaceFrameView extends SurfaceView implements SurfaceHolder.Callb
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
         mIsDestroy = true;
     }
 
-    int preLoadTime;
+
+
+    private long startShowTime = 0;
+
+    @Override
+    public void run() {
+        if (mOnFrameFinishedListener != null) {
+            mOnFrameFinishedListener.onStart();
+        }
+
+        while (mIsThreadRunning) {
+            drawView();
+        }
+
+        if (mOnFrameFinishedListener != null) {
+            mOnFrameFinishedListener.onStop();
+        }
+    }
 
     /**
      * 制图方法
      */
     private void drawView() {
-//            long start2 = System.currentTimeMillis();
         // 无资源文件退出
         if (mBitmapResourceIds == null) {
             Log.e(TAG, "the bitmapsrcIDs is null");
@@ -103,8 +129,12 @@ public class SurfaceFrameView extends SurfaceView implements SurfaceHolder.Callb
         mCanvas = mSurfaceHolder.lockCanvas();
         try {
             if (mSurfaceHolder != null && mCanvas != null) {
-                mBitmap = mNextBitmap;
-                mCanvas.drawBitmap(mBitmap, null, rectF, null);
+//                mBitmap = mNextBitmap;
+
+                paint.setAlpha(125);
+                mCanvas.drawBitmap(mBitmap, null, rectF, paint);
+                mCanvas.drawBitmap(mBitmap, null, rectF, paint);
+                mCanvas.drawBitmap(mBitmap, null, rectF, paint);
                 // 播放到最后一张图片，停止线程
                 if (mCurrentIndext == mBitmapResourceIds.length - 1) {
 //                        mIsThreadRunning = false;
@@ -136,7 +166,8 @@ public class SurfaceFrameView extends SurfaceView implements SurfaceHolder.Callb
             if (mBitmap != null) {
                 // 收回图片
                 mBitmap.recycle();
-                mNextBitmap = null;
+                mBitmap = null;
+//                mNextBitmap = null;
             }
             //标记缓存图片的时间
             startShowTime = System.currentTimeMillis();
@@ -146,34 +177,19 @@ public class SurfaceFrameView extends SurfaceView implements SurfaceHolder.Callb
         }
     }
 
-    private long startShowTime = 0;
-
-    @Override
-    public void run() {
-        if (mOnFrameFinishedListener != null) {
-            mOnFrameFinishedListener.onStart();
-        }
-
-        while (mIsThreadRunning) {
-            drawView();
-        }
-
-        if (mOnFrameFinishedListener != null) {
-            mOnFrameFinishedListener.onStop();
-        }
-    }
-
     /**
      * 预加载bitmap
      */
     private void preLoadBitmap() {
-        if (mCurrentIndext < mBitmapResourceIds.length && (mNextBitmap == null)) {
+        if (mCurrentIndext < mBitmapResourceIds.length && (mBitmap == null)) {
             TypedValue value = new TypedValue();
             InputStream in = context.getResources().openRawResource(mBitmapResourceIds[mCurrentIndext], value);
-            mNextBitmap = BitmapFactory.decodeStream(in, null, null);
-            Log.v(TAG, "  size-> " + mNextBitmap.getByteCount() / 1024 + "k ");
+//            mNextBitmap = BitmapFactory.decodeStream(in, null, null);
+            mBitmap = BitmapFactory.decodeStream(in, null, null);
+            Log.v(TAG, "  size-> " + mBitmap.getByteCount() / 1024 + "k ");
         }
     }
+
 
     /**
      * 开始动画
@@ -257,21 +273,6 @@ public class SurfaceFrameView extends SurfaceView implements SurfaceHolder.Callb
         }
 
         return super.onKeyDown(keyCode, event);
-    }
-
-    private void decodeImage(InputStream in) {
-        BitmapFactory.Options optionsTmp = new BitmapFactory.Options();
-        BitmapFactory.decodeStream(in, null, optionsTmp);
-        Log.v(TAG, " outW-> " + optionsTmp.outWidth + "  outH ->  " + optionsTmp.outHeight);
-
-    }
-
-    private Bitmap decodeResource(Resources resources, int id) {
-        TypedValue value = new TypedValue();
-        resources.openRawResource(id, value);
-        BitmapFactory.Options opts = new BitmapFactory.Options();
-        opts.inTargetDensity = value.density;
-        return BitmapFactory.decodeResource(resources, id, opts);
     }
 
     public void recolyBitmap() {

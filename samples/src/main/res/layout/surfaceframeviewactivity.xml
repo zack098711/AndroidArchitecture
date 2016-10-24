@@ -6,5 +6,11 @@
     <com.demos.zdx.androiddemos.view.view.surfaceframeview.SurfaceFrameView
         android:id="@+id/surfaceframeview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:visibility="visible"/>
+    <com.demos.zdx.androiddemos.view.view.surfaceframeview.SurfaceFrameAnimationView
+        android:id="@+id/SurfaceFrameAnimationView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
 </LinearLayout>

@@ -18,7 +18,11 @@ public enum MainItemFlagEnum {
     /**
      * 测试 surfaceview 双线程展示 GIF
      */
-    LIST_TYPE_SURFACEVIEW_GIF(2);
+    LIST_TYPE_SURFACEVIEW_GIF(2),
+    /**
+     * 测试 textrueView展示 GIF 流
+     */
+    LIST_TYPE_TEXTRUEVIEW_GIF(3);
     public int mId;
     MainItemFlagEnum(int mId){
         this.mId = mId;

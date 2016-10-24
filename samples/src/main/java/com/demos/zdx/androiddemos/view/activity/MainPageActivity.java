@@ -83,6 +83,10 @@ public class MainPageActivity extends BaseActivity<IMainInterface,MainPagePresen
                         break;
                     case LIST_TYPE_SURFACEVIEW_GIF:
                         startActivity(new Intent(context,SurfaceFrameViewActivity.class));
+                        break;
+                    case LIST_TYPE_TEXTRUEVIEW_GIF:
+
+                        break;
                     default:
                         break;
                 }

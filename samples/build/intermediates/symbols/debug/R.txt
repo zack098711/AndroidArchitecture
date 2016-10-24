@@ -614,6 +614,7 @@ int drawable mjdemo0155 0x7f0200e6
 int drawable mjdemo0156 0x7f0200e7
 int drawable mjdemo0157 0x7f0200e8
 int drawable notification_template_icon_bg 0x7f0200e9
+int id SurfaceFrameAnimationView 0x7f0c0073
 int id action0 0x7f0c0065
 int id action_bar 0x7f0c0042
 int id action_bar_activity_content 0x7f0c0000
